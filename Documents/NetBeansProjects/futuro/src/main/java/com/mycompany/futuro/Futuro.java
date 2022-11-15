@@ -11,7 +11,7 @@ package com.mycompany.futuro;
  */
 
 public class Futuro {
-    public static void main (String[] args){
+    private static void main (String[] args){
         
         System.out.print("Estudiante " + args[0] + " " + args[1] + ": ");
         
